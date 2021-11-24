@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/6qTZqdKBUF](https://discord.gg/6qTZqdKBUF)
+- 👨‍💻 All of my projects are available at [https://discord.gg/rbSy4eVnmw](https://discord.gg/rbSy4eVnmw)
 
 - 📝 I regularly write articles on [(Coming Soon)]((Coming Soon))
 
