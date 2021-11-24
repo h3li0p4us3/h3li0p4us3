@@ -11,10 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/rbSy4eVnmw](https://discord.gg/rbSy4eVnmw)
 
-- 📝 I regularly write articles on [(Coming Soon)]((Coming Soon))
-
-- 💬 Ask me about **Machine Learning**
-
 - 📫 How to reach me **h3li0p4us3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
