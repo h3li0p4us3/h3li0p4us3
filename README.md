@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/h3li0p4us3](https://github.com/h3li0p4us3)
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **C# & Python :)**
 
 - 📫 How to reach me **h3li0p4us3@gmail.com**
 
