@@ -6,7 +6,7 @@
 ### <div align="center">I'm h3li0p4us3, a full-time C# , C++ developer 👨‍💻 working remotely 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [SauToriN Scanner](https://github.com/h3li0p4us3/scanner)  
+- 🔭 I’m currently working on [SauToriN Osint](https://github.com/h3li0p4us3/SauToriN-Osint)  
   
 
 - 🌱 I’m currently learning Java script & React Js  
