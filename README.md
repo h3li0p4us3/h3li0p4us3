@@ -13,10 +13,10 @@
 
   
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=h3li0p4us3&label=Visitors&color=0e75b6&style=flat" alt="h3li0p4us3" /> <img src="https://img.shields.io/github/followers/h3li0p4us3?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
+  <img src="https://komarev.com/ghpvc/?username=h3li0p4us3&label=Visitors&color=0e75b6&style=flat" alt="h3li0p4us3" /> <img src="https://img.shields.io/github/followers/h3li0p4us3?label=Followers&style=flat&color=0e75b6" alt="h3li0p4us3"/>
  <a href="https://github.com/h3li0p4us3?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/h3li0p4us3"/></a>
- <a href="mailto:the.young.programmer.team@gmail.com">
+ <a href="mailto:h3li0p4us3@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
   </p>
