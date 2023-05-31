@@ -177,7 +177,7 @@
 
  <a href="https://www.instagram.com/h3li0p4us3_moharami" target="_blank" rel="noreferrer"><img src="imgs/gradient/instagram-512.png" width="35"/></a>
  <a href="https://twitter.com/h3li0p4us3" target="_blank" rel="noreferrer"><img src="imgs/gradient/twitter-512.png" width="35" /></a>
- <a href="h3li0p4us3@gmail.com" target="_blank" rel="noreferrer"><img src="imgs/gradient/gmail-logo-512.png" width="35"/></a>
+ <a href="mailto:h3li0p4us3@gmail.com" target="_blank" rel="noreferrer"><img src="imgs/gradient/gmail-logo-512.png" width="35"/></a>
 
 </p>
 
