@@ -17,7 +17,7 @@ class h3li0p4us3 {
 public:
     std::string pronouns = "He/Him";
     std::vector<std::string> code = {"C++"};
-    std::vector<std::string> askMeAbout = {"AI", "Tech", "Frameworks", "OpenPose", "ImGui"};
+    std::vector<std::string> askMeAbout = {"AI", "Tech", "Reverse Engineering", "OpenPose", "ImGui"};
     std::vector<std::string> Frameworks = {"ImGui", "TensorFlow", "OpenPose", "Opencv"};
     std::vector<std::string> os = {"Windows", "Arch Linux"};
     std::string currentFocus = "Voice Analysis, Computer Vision";
