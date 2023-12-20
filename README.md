@@ -31,7 +31,7 @@ public:
 
 ### 📫 Contact Me
 
-Have any questions, suggestions, or just want to say hi? Feel free to shoot me an email at [h3li0p4us3@gmail.com](mailto:h3li0p4us3@gmail.com) or connect with me on Telegram [@h3li0p4us3_moharami]. I'm always open to engaging in exciting conversations!
+Have any questions, suggestions, or just want to say hi? Feel free to shoot me an email at [h3li0p4us3@proton.me](mailto:h3li0p4us3@proton.me). I'm always open to engaging in exciting conversations!
 
 ### 🚀 CineLingo - An Ambitious Project
 
