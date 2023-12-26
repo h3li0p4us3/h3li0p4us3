@@ -33,13 +33,9 @@ public:
 
 Have any questions, suggestions, or just want to say hi? Feel free to shoot me an email at [h3li0p4us3@proton.me](mailto:h3li0p4us3@proton.me). I'm always open to engaging in exciting conversations!
 
-### 🚀 CineLingo - An Ambitious Project
+### 💖 Support Me
 
-[CineLingo](https://github.com/SauToriN/CineLingo) is my ambitious project for creating Subtitles for a video or movie using AI.
-
-### 💖 Support the Project
-
-If you find CineLingo intriguing and would like to support my projects, consider contributing to the project or making a donation. Your support means the world to me and helps fuel my motivation to push the boundaries of AI.
+If you want to support my work, you can use the options below:
 
 <p align="center">
   <a href="https://www.coffeebede.com/h3li0p4us3" target="blank">
@@ -48,5 +44,5 @@ If you find CineLingo intriguing and would like to support my projects, consider
 </p>
 
 <p align="center">
-  ETHEREUM Address: 0xD62aad3E3bc049002492Ee1A1D7c2c15A6Ede974
+  ETHEREUM Address: 0xd4A139999A5A0F068Dc95c27D2D1bCFdD45cD85a
 </p>
