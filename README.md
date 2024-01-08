@@ -10,22 +10,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=h3li0p4us3&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```cpp
-class h3li0p4us3 {
-public:
-    std::string pronouns = "He/Him";
-    std::vector<std::string> code = {"C", "C++", "nodejs", "python"};
-    std::vector<std::string> askMeAbout = {"AI", "Tech", "Reverse Engineering", "OpenPose", "ImGui"};
-    std::vector<std::string> Frameworks = {"ImGui", "TensorFlow", "OpenPose", "Opencv"};
-    std::vector<std::string> os = {"Windows", "Arch Linux"};
-    std::string currentFocus = "Voice Analysis, Computer Vision";
-    std::string funFact = "There are only 10 types of people in the world: those who understand binary, and those who don't.";
-
-};
-```
----
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> C/C++ programmer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=h3li0p4us3&color=brightgreen)
 
