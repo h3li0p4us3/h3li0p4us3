@@ -24,4 +24,4 @@ Have any questions, suggestions, or just want to say hi? Feel free to shoot me a
 ### 💖 Support Me
 
 If you want to support my work, you can use the ethereum address blow:
-ETHEREUM Address: 0xD62aad3E3bc049002492Ee1A1D7c2c15A6Ede974
+- `0xD62aad3E3bc049002492Ee1A1D7c2c15A6Ede974`
