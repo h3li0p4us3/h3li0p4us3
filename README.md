@@ -23,14 +23,5 @@ Have any questions, suggestions, or just want to say hi? Feel free to shoot me a
 
 ### 💖 Support Me
 
-If you want to support my work, you can use the options below:
-
-<p align="center">
-  <a href="https://www.coffeebede.com/h3li0p4us3" target="blank">
-    <img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="220"/>
-  </a>
-</p>
-
-<p align="center">
-  ETHEREUM Address: 0xd4A139999A5A0F068Dc95c27D2D1bCFdD45cD85a
-</p>
+If you want to support my work, you can use the ethereum address blow:
+ETHEREUM Address: 0xD62aad3E3bc049002492Ee1A1D7c2c15A6Ede974
