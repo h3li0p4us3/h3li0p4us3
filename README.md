@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> more about me
 - im a Rust/C++ and python programmer from Tabriz, Iran.
 - im currently learning ML and AI ;)
-- my goal in next 5years is to find a way to travel to South Korea(my dream country) and be rich with my bestie [Reza](https://github.com/The-Tess).
+- my goal is to travel to US and have a family ;)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=h3li0p4us3&color=brightgreen)
 
