@@ -11,7 +11,7 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> more about me
-- im a Rust, C++ and python programmer from Tabriz, Iran.
+- im a C++ and python programmer from Tabriz, Iran.
 - im currently learning ML and AI ;)
 - my goal is make money, find my soulmate ;)
 
