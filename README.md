@@ -24,4 +24,6 @@ Have any questions, suggestions, or just want to say hi? Feel free to shoot me a
 ### 💖 Support Me
 
 If you want to support my work, you can use the ethereum address blow (ETH NETWORK):
-- `ethereum=> 0xCebE01EAb5294b43eC99Bb792F05494f476A58C4`
+- `ethereum=> 0xb8aFa61eb700BF8D46E1505E6FdaE2D2E7bFf66a`
+- `Bitcoin=> bc1qr466r9qwxxeql8qgvjs0dpfhtmakarg3ju7yjm`
+- `Monero(XMR)=> 49E7jMDtcf6Mt4K56GNf3WcAq3kJYSGoqJt4DEhX4YcuCH6dLmPnS3X8SaQ9YAahSkbcadwAs95u42gBHT247FtmNFFLmsB`
