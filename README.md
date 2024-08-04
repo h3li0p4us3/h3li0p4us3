@@ -10,9 +10,9 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> more about me
-- im a C++ and python programmer from Tabriz, Iran.
+- im a C++ and python programmer
 - im currently learning ML and AI ;)
-- my goal is make money, find my soulmate ;)
+- my goal is to make enough money and travel to USA with my Bro [Reza Arabi](https://github.com/The-Tess)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=h3li0p4us3&color=brightgreen)
 
